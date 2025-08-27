@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/phancao2712/abbott_test_commerce_optimizer/
+    url: https://content.da.live/phancao2712/abbott-test-commerce-optimizer/
     type: markup
 
 folders:
